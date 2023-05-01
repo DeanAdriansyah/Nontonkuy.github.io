@@ -1,4 +1,4 @@
-# Flix Movie Website
+# NontonKuy Movie Website
 
     How To Create Responsive Movie Website Using HTML CSS And jQuery
 
@@ -13,6 +13,10 @@
 # Description
 
     We will make Responsive Movie Website Using HTML CSS And jQuery, Owl Carousel
+
+# Text
+
+I apologize if I made a mistake, this website aims to carry out e-business assignments from my campus, informatics engineering study program.
 
 # Resource
 
